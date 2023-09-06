@@ -42,6 +42,6 @@ section{
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    max-width: 450px;
+    max-width: 380px;
     padding-bottom: 10%;
 } 
